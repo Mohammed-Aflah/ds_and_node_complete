@@ -1,0 +1,39 @@
+{
+    "root": {
+        "value": 29,
+        "left": {
+            "value": 10,
+            "left": null,
+            "right": {
+                "value": 12,
+                "left": null,
+                "right": {
+                    "value": 26,
+                    "left": null,
+                    "right": null
+                }
+            }
+        },
+        "right": {
+            "value": 34,
+            "left": {
+                "value": 32,
+                "left": null,
+                "right": null
+            },
+            "right": {
+                "value": 78,
+                "left": {
+                    "value": 67,
+                    "left": {
+                        "value": 56,
+                        "left": null,
+                        "right": null
+                    },
+                    "right": null
+                },
+                "right": null
+            }
+        }
+    }
+}
